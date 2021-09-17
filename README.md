@@ -1,2 +1,3 @@
 # ottergram-2
-ottergram with buttons
+
+Ottergram Homework 2 - Adding fancy Prev and Next Buttons.
